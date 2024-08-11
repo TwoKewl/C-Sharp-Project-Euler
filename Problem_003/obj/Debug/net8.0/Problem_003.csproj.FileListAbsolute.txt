@@ -1,0 +1,15 @@
+c:\Users\Toby\Documents\GitHub\C-Sharp-Project-Euler\Problem_003\bin\Debug\net8.0\Problem_003.exe
+c:\Users\Toby\Documents\GitHub\C-Sharp-Project-Euler\Problem_003\bin\Debug\net8.0\Problem_003.deps.json
+c:\Users\Toby\Documents\GitHub\C-Sharp-Project-Euler\Problem_003\bin\Debug\net8.0\Problem_003.runtimeconfig.json
+c:\Users\Toby\Documents\GitHub\C-Sharp-Project-Euler\Problem_003\bin\Debug\net8.0\Problem_003.dll
+c:\Users\Toby\Documents\GitHub\C-Sharp-Project-Euler\Problem_003\bin\Debug\net8.0\Problem_003.pdb
+c:\Users\Toby\Documents\GitHub\C-Sharp-Project-Euler\Problem_003\obj\Debug\net8.0\Problem_003.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Toby\Documents\GitHub\C-Sharp-Project-Euler\Problem_003\obj\Debug\net8.0\Problem_003.AssemblyInfoInputs.cache
+c:\Users\Toby\Documents\GitHub\C-Sharp-Project-Euler\Problem_003\obj\Debug\net8.0\Problem_003.AssemblyInfo.cs
+c:\Users\Toby\Documents\GitHub\C-Sharp-Project-Euler\Problem_003\obj\Debug\net8.0\Problem_003.csproj.CoreCompileInputs.cache
+c:\Users\Toby\Documents\GitHub\C-Sharp-Project-Euler\Problem_003\obj\Debug\net8.0\Problem_003.sourcelink.json
+c:\Users\Toby\Documents\GitHub\C-Sharp-Project-Euler\Problem_003\obj\Debug\net8.0\Problem_003.dll
+c:\Users\Toby\Documents\GitHub\C-Sharp-Project-Euler\Problem_003\obj\Debug\net8.0\refint\Problem_003.dll
+c:\Users\Toby\Documents\GitHub\C-Sharp-Project-Euler\Problem_003\obj\Debug\net8.0\Problem_003.pdb
+c:\Users\Toby\Documents\GitHub\C-Sharp-Project-Euler\Problem_003\obj\Debug\net8.0\Problem_003.genruntimeconfig.cache
+c:\Users\Toby\Documents\GitHub\C-Sharp-Project-Euler\Problem_003\obj\Debug\net8.0\ref\Problem_003.dll
